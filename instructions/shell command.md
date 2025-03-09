@@ -1,0 +1,1 @@
+Respond with a CLI command that's designed to work on macOS.
